@@ -29,4 +29,4 @@ Navigate to your Cstrike folder
 _Steamapps/common/Counter-Strike Source/cstrike_
 ![cstrike](https://gilbo.dev/cpp203f.gif)
 And dump the contents of the zip file in here.
-![cstrike2](https://gilbo.dev/k3o6e63.gif)
+![cstrike2](https://gilbo.dev/g5vvig3.gif)
