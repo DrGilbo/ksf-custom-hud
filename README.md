@@ -44,5 +44,6 @@ _M Menu to choose a team with commands_
 Navigate to your Cstrike folder
 _Steamapps/common/Counter-Strike Source/cstrike_
 ![cstrike](https://gilbo.dev/cpp203f.gif)
+
 And dump the contents of the zip file in here.
 ![cstrike2](https://gilbo.dev/k3o6e63.gif)
