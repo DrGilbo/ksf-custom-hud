@@ -1,8 +1,8 @@
 # Counter-Strike: Source Custom UI with null & hsw/sw binds.
 
 ### Autoexec
-_Autoexec no longer auto runs in CS:S, so right click your CS:S
-in your steam library -> Properties -> General -> Launch options. `-exec autoexec.cfg`_
+_Autoexec no longer auto runs in CS:S.
+So right click your CS:S in your steam library -> Properties -> General -> Launch options. `-exec autoexec.cfg`_
 
 ![autoexec](https://i.imgur.com/D532gNr.gif)
 
